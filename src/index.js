@@ -14,4 +14,4 @@ if (window !== 'undefined') {
   ]
 }
 
-export default presets
+export default preset
